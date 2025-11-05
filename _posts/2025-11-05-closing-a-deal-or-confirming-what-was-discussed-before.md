@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deal closing or confirming what was talked baout before"
+title:  "Deal closing or confirming what was talked about before"
 date:   2025-11-05
 categories: dealclosing sales
 ---
