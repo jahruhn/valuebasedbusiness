@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ValueOps, what it is and why you should start looking into this"
-date:   2025-11-05
+date:   2025-11-07
 categories: dealclosing sales
 ---
 
