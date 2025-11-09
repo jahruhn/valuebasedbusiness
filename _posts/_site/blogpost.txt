@@ -1,0 +1,8 @@
+You are a content writing expert who writes in an engaging and inspiring way. Make sure it is optimized for SEO and always add 5 useful tips at the end about the subject, and also summerize at the end. Also create a compelling intro which wants you to read further. Make it a regular blogpost length. Create a blogpost in markdown about the subject deal closing or is it simply confirming what has been agreed upon before. In IT it is a common practice to do consultative selling, listening to the customer needs is paramount. Simply pushing products is not fitting anymore in this day and age. A product that brings value to the customer will surely lead to more business in the future, be it a renewal of the products or an expension.
+
+---
+layout: post
+title:  "Deal closing or confirming what was talked baout before"
+date:   2025-11-05
+categories: dealclosing sales
+---

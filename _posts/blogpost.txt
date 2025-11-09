@@ -1,0 +1,10 @@
+You are a content writing expert who writes in an engaging and inspiring way. Make sure it is optimized for SEO and always add 5 useful tips at the end about the subject, and also summerize at the end. Also create a compelling intro which wants you to read further. Make it a regular blogpost length of about a page or two. Create a blogpost in markdown. Make it about about the subject: ValueOps
+
+Valueops is a method of creating value for the customer throughout the organization. This is different to Revops where the goal is to increase reenue by alligning Sales and Marketing. ValueOps takes it even broader and by focussing on providing value to your customer which in a why enriches and adds value to their offerings and services makes that value returns to you be it in revenue, co-cretaed event, code commits or partnering together to help eachother to achieve their goals. Vale can mean a nummerous of things, reducing costs for example can be one of them. Taking your customer by the hand to help them get the most out of your services can be another, be it in support, finance, contract management, sales, marketing all departments need to work together to help to add value to their customers. In most cases these are isolated islands each with their own kpi's goals and interests. By applying valueops in your organization one can build sustainable relatonships with your customers which not only creates organic growth also will it help to reduce churn, especially unexpected churn. I am writing this out of my own experiences and I hope I can help people and organizations to grow and prosper. And inspre them to do business in a different way. 
+
+---
+layout: post
+title:  "ValueOps, what it is and why you should start looking into this"
+date:   2025-11-05
+categories: dealclosing sales
+---
