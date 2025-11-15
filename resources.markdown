@@ -93,12 +93,6 @@ A: We'd love to hear from you! Send your feedback to [jeroen.tuijn@gmail.com](ma
 ---
 
 ## Additional Resources Coming Soon
-
-- **Templates & Checklists** – Ready-to-use tools for deal management and customer engagement
-- **Video Guides** – Visual walkthroughs of key strategies
-- **Webinar Series** – Deep-dive discussions on value-based operations
-- **Community Forum** – Connect with other professionals practicing value-based business
-
 Stay tuned for more resources!
 
 ---
