@@ -12,7 +12,7 @@ response=$(curl -s -X POST "$API_URL" \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer $API_KEY" \
   -d "{
-    \"model\": \"mistral-tiny\",
+    \"model\": \"mistral-medium\",
     \"messages\": [
       {\"role\": \"user\", \"content\": \"$prompt\"}
     ]
