@@ -74,6 +74,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

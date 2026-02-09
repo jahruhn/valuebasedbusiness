@@ -1,0 +1,8 @@
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+[33m     Build Warning: Layout 'post' requested in _posts/2025-11-05-closing-a-deal-or-confirming-what-was-discussed-before.md does not exist.[0m
+[33m     Build Warning: Layout 'post' requested in _posts/2025-11-07-valueops-what-it-is-and-why-you-should-start-looking-into-this.md does not exist.[0m
+[33m     Build Warning: Layout 'post' requested in _posts/2025-11-15-customer-engagement-automation.md does not exist.[0m
+[33m     Build Warning: Layout 'post' requested in _posts/2025-11-20-linkedin-sales-navigator-valueops-prospecting.md does not exist.[0m
+[33m     Build Warning: Layout 'page' requested in 404.html does not exist.[0m
+[33m     Build Warning: Layout 'page' requested in about.markdown does not exist.[0m
+[33m     Build Warning: Layout 'page' requested in resources.markdown does not exist.[0m

@@ -1,0 +1,8 @@
+Configuration file: /home/toulcit/Github/valuebasedbusiness/valuebasedbusiness/_config.yml
+            Source: /home/toulcit/Github/valuebasedbusiness/valuebasedbusiness
+       Destination: /home/toulcit/Github/valuebasedbusiness/valuebasedbusiness/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme mmistakes/minimal-mistakes
+       Jekyll Feed: Generating feed for posts
+jekyll 3.10.0 | Error:  Liquid syntax error (line 10): Unknown tag 'include_cached'

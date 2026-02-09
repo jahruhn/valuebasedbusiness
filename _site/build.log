@@ -1,0 +1,8 @@
+Configuration file: /home/toulcit/Github/valuebasedbusiness/valuebasedbusiness/_config.yml
+            Source: /home/toulcit/Github/valuebasedbusiness/valuebasedbusiness
+       Destination: /home/toulcit/Github/valuebasedbusiness/valuebasedbusiness/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme mmistakes/minimal-mistakes
+       Jekyll Feed: Generating feed for posts
+jekyll 3.10.0 | Error:  Could not locate the included file 'header.html' in any of ["/home/toulcit/Github/valuebasedbusiness/valuebasedbusiness/_includes", "/tmp/jekyll-remote-theme-20260209-553448-sfgq8y/_includes"]. Ensure it exists in one of those directories and is not a symlink as those are not allowed in safe mode.

@@ -1,0 +1,41 @@
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+[33m     Build Warning: Layout 'post' requested in _posts/2025-11-05-closing-a-deal-or-confirming-what-was-discussed-before.md does not exist.[0m
+[33m     Build Warning: Layout 'post' requested in _posts/2025-11-07-valueops-what-it-is-and-why-you-should-start-looking-into-this.md does not exist.[0m
+[33m     Build Warning: Layout 'post' requested in _posts/2025-11-15-customer-engagement-automation.md does not exist.[0m
+[33m     Build Warning: Layout 'post' requested in _posts/2025-11-20-linkedin-sales-navigator-valueops-prospecting.md does not exist.[0m
+[31m  Liquid Exception: Liquid syntax error (line 10): Unknown tag 'include_cached' in /_layouts/default.html[0m
+/home/toulcit/gems/gems/liquid-4.0.4/lib/liquid/document.rb:23:in `unknown_tag': Liquid syntax error (line 10): Unknown tag 'include_cached' (Liquid::SyntaxError)
+	from /home/toulcit/gems/gems/liquid-4.0.4/lib/liquid/document.rb:11:in `block in parse'
+	from /home/toulcit/gems/gems/liquid-4.0.4/lib/liquid/block_body.rb:32:in `parse'
+	from /home/toulcit/gems/gems/liquid-4.0.4/lib/liquid/document.rb:10:in `parse'
+	from /home/toulcit/gems/gems/liquid-4.0.4/lib/liquid/document.rb:5:in `parse'
+	from /home/toulcit/gems/gems/liquid-4.0.4/lib/liquid/template.rb:130:in `parse'
+	from /home/toulcit/gems/gems/liquid-4.0.4/lib/liquid/template.rb:114:in `parse'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/liquid_renderer/file.rb:13:in `block in parse'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/liquid_renderer/file.rb:49:in `measure_time'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/liquid_renderer/file.rb:12:in `parse'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/renderer.rb:121:in `render_liquid'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/renderer.rb:195:in `render_layout'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/renderer.rb:158:in `place_in_layouts'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/renderer.rb:88:in `render_document'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/renderer.rb:62:in `run'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/site.rb:479:in `render_regenerated'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/site.rb:464:in `block (2 levels) in render_docs'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/site.rb:463:in `each'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/site.rb:463:in `block in render_docs'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/site.rb:462:in `each_value'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/site.rb:462:in `render_docs'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/site.rb:191:in `render'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/site.rb:71:in `process'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/command.rb:28:in `process_site'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/commands/build.rb:65:in `build'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/commands/build.rb:36:in `process'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/lib/jekyll/commands/build.rb:18:in `block (2 levels) in init_with_program'
+	from /home/toulcit/gems/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `block in execute'
+	from /home/toulcit/gems/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `each'
+	from /home/toulcit/gems/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `execute'
+	from /home/toulcit/gems/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in `go'
+	from /home/toulcit/gems/gems/mercenary-0.3.6/lib/mercenary.rb:19:in `program'
+	from /home/toulcit/gems/gems/jekyll-3.10.0/exe/jekyll:15:in `<top (required)>'
+	from /home/toulcit/gems/bin/jekyll:25:in `load'
+	from /home/toulcit/gems/bin/jekyll:25:in `<main>'
